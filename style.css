@@ -1,0 +1,70 @@
+nav {
+  text-align: right;
+}
+
+nav > a {
+  margin-right: 1rem;
+}
+
+img {
+  height: 2rem;
+  width: 2rem;
+}
+
+.container {
+  text-align: center;
+}
+
+input {
+  margin: 1rem;
+}
+
+button {
+  margin: 1rem;
+}
+
+section {
+  margin-top: 20vh;
+}
+
+input {
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  background-color: #eee;
+}
+
+footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 1rem;
+  position: fixed;
+  text-align: center;
+  background-color: #f2f2f2;
+}
+
+.top {
+  text-align: left;
+}
+
+.bottom {
+  text-align: left;
+}
+
+.left {
+  display: inline-block;
+}
+.left > span {
+  margin-right: 1rem;
+}
+
+.right {
+  margin-left: 210px;
+  display: inline-block;
+}
+
+.right > span {
+  margin-right: 1rem;
+}
